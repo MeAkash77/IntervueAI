@@ -20,7 +20,7 @@ VoxNavi uses Firebase Authentication with secure session cookies for enhanced se
 
 ## User Authentication using Firebase Auth
 
-![Firebase authentication flowchart](<img width="959" alt="Image" src="https://github.com/user-attachments/assets/cb66236c-d9a2-42df-b5db-21e7ec791a80" />")
+![Firebase authentication flowchart](<img width="959" alt="Image" src="https://github.com/user-attachments/assets/cb66236c-d9a2-42df-b5db-21e7ec791a80" />
 
 ### Sign Up Flow
 
