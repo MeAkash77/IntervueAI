@@ -22,6 +22,8 @@ VoxNavi uses Firebase Authentication with secure session cookies for enhanced se
 
 <img width="959" height="476" alt="Image" src="https://github.com/user-attachments/assets/e376b56a-4aaf-44ef-a2f5-eece33abd8b8" />
 
+<img width="959" height="476" alt="Image" src="https://github.com/user-attachments/assets/f85db11b-7e48-49f5-9786-d1ec92a56322" />
+
 ## Frontend
 
 <img width="958" alt="Image" src="https://github.com/user-attachments/assets/e0781178-c654-4d03-a964-70b3e89790c9" />
